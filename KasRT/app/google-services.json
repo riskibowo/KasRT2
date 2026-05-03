@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "818618997545",
+    "project_id": "kas-rt-app-2026",
+    "storage_bucket": "kas-rt-app-2026.firebasestorage.app",
+    "firebase_url": "https://kas-rt-app-2026-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818618997545:android:c5ff3f8da34b3abbf17538",
+        "android_client_info": {
+          "package_name": "com.example.kasrt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-iIKAuGzgebY0hkCAMW953V-wfF8keNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

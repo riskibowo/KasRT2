@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="0.5dp"
+        android:color="#C0C0C0" /> <!-- Mengganti warna garis menjadi abu-abu muda -->
+    <padding
+        android:top="0.5dp"
+        android:bottom="0.5dp" />
+</shape>

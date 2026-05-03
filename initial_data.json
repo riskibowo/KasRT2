@@ -1,0 +1,76 @@
+{
+  "users": {
+    "user0": {
+      "nama_depan": "User",
+      "nama_belakang": "1",
+      "email": "user1@gmail.com",
+      "alamat": "Blok A No. 1",
+      "total_iuran_individu": 150000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    "user1": {
+      "nama_depan": "User",
+      "nama_belakang": "2",
+      "email": "user2@gmail.com",
+      "alamat": "Blok B No. 2",
+      "total_iuran_individu": 100000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    "user2": {
+      "nama_depan": "User",
+      "nama_belakang": "3",
+      "email": "user3@gmail.com",
+      "alamat": "Blok C No. 3",
+      "total_iuran_individu": 50000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Menunggak",
+      "gambar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    "user3": {
+      "nama_depan": "User",
+      "nama_belakang": "4",
+      "email": "user4@gmail.com",
+      "alamat": "Blok D No. 4",
+      "total_iuran_individu": 200000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    "user4": {
+      "nama_depan": "User",
+      "nama_belakang": "5",
+      "email": "user5@gmail.com",
+      "alamat": "Blok E No. 5",
+      "total_iuran_individu": 150000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/women/1.jpg"
+    }
+  },
+  "pemanfaatan": {
+    "item0": {
+      "nama_depan": "User",
+      "nama_belakang": "1",
+      "email": "user1@gmail.com",
+      "alamat": "Blok A No. 1",
+      "total_iuran_individu": 150000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    "item1": {
+      "nama_depan": "User",
+      "nama_belakang": "2",
+      "email": "user2@gmail.com",
+      "alamat": "Blok B No. 2",
+      "total_iuran_individu": 100000,
+      "pengeluaran_iuran_warga": 50000,
+      "pemanfaatan_iuran": "Lengkap",
+      "gambar": "https://randomuser.me/api/portraits/men/2.jpg"
+    }
+  }
+}
