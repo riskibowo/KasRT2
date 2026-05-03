@@ -10,6 +10,16 @@ KasRT adalah aplikasi Android modern yang dirancang untuk mendigitalkan pengelol
 - **Pengumuman (Info Terbaru)**: Sistem informasi terpusat untuk kegiatan kerja bakti, rapat warga, dan informasi penting lainnya dengan indikator kategori (Info, Peringatan, Sukses).
 - **Struktur Organisasi**: Menampilkan profil pengurus RT (Ketua, Sekretaris, Bendahara) untuk memudahkan koordinasi antar warga.
 
+## 📸 Visual Tampilan
+
+| Dashboard Utama | Data Warga | Pengumuman |
+| :---: | :---: | :---: |
+| ![Dashboard](screenshots/dashboard.jpg) | ![Data Warga](screenshots/data_warga.jpg) | ![Pengumuman](screenshots/pengumuman.jpg) |
+
+| Laporan Kas | Struktur Pengurus |
+| :---: | :---: |
+| ![Laporan Kas](screenshots/laporan_kas.jpg) | ![Pengurus](screenshots/pengurus.jpg) |
+
 ## 🛠️ Teknologi yang Digunakan
 
 - **Bahasa**: [Kotlin](https://kotlinlang.org/)
